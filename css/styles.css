@@ -1,13 +1,8 @@
 body{
-<<<<<<< HEAD
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-=======
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
->>>>>>> develop
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container{
